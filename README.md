@@ -3,7 +3,7 @@
 A project focused on designing and optimizing object detection pipelines to enhance the capabilities of autonomous vehicles. The project evaluates and implements state-of-the-art machine learning techniques to achieve reliable object detection in real-world scenarios.
 
 ## Results (Using YOLO) 🌟
-[![Demo](http://img.youtube.com/vi/Zljh-bciS-Q/0.jpg)](http://www.youtube.com/watch?v=Zljh-bciS-Q)
+[![Demo](http://img.youtube.com/vi/Zljh-bciS-Q/0.jpg)](https://youtu.be/lN1KLbRhAXE)
 
 ## Analysis 🧠
 Here's a [presentation](https://docs.google.com/presentation/d/1UXpk47FWr--odaWwSold6jPDFvrQtz1Fob_nV4R4UMA/edit?usp=sharing) that I made to explore my thought process.
